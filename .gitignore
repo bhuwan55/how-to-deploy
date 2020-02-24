@@ -2,3 +2,4 @@ venv/
 .vscode/
 *.pyc
 app/arko_app/hello.txt
+deploy/deploy/settings.py
